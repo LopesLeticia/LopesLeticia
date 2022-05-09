@@ -14,6 +14,8 @@
     <img align="center" alt="Leticia-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Leticia-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="center" alt="Leticia-sql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+  <img align="right" alt="Leticia-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/699786826893754430/973012835460333628/picasion.com_c889164db3e3154b86ba27c041589abd.gif">
+</div>
   
   ##
   
